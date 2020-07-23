@@ -1,0 +1,53 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.title {
+    margin: auto;
+    width: 100%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: green;
+    text-align: center;
+    color: white;
+}
+
+.input {
+    margin: auto;
+    width: 50%;
+    padding-top: 20px;
+    text-align: center;
+    padding-bottom: 20px;
+    border: 3px solid rgb(194, 248, 0);
+}
+
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 10px 24px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+  }
+.button:hover {
+    background-color: rgb(94, 192, 127);
+}
+
+  .checkmark {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 25px;
+    width: 25px;
+    background-color: #eee;
+  }
+  
